@@ -9,8 +9,6 @@ public class CrudimApplication {
 	public static void main(String[] args) {
 		SpringApplication.run(CrudimApplication.class, args);
 	}
-
 }
-
 
 
